@@ -17,7 +17,7 @@ with open("requirements.txt", "r") as f:
 
 setup(
     name="BeautifulSauce",
-    version='0.0.7',
+    version='0.0.8',
     author="Nathan Raw",
     author_email="naterawdata@gmail.com",
     description=DOCLINES[0],
