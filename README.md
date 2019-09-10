@@ -1,7 +1,7 @@
 # BeautifulSauce :spaghetti:
 [![Build Status](https://api.travis-ci.com/nateraw/BeautifulSauce.svg?branch=master)](https://travis-ci.com/nateraw/BeautifulSauce) [![PyPi version](https://img.shields.io/pypi/v/BeautifulSauce.svg)](https://pypi.python.org/pypi/BeautifulSauce/)
 
-Beautiful Soup's saucy sibling!
+BeautifulSoup's saucy sibling!
 
 ## What BeautifulSauce Provides
 
