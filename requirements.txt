@@ -1,0 +1,10 @@
+beautifulsoup4==4.7.1
+cssutils==1.0.2
+lxml==4.3.4
+numpy==1.16.4
+pandas==0.24.2
+requests==2.22.0
+tqdm==4.32.2
+PyYAML==5.1.1
+scikit-learn==0.21.2
+sklearn-pandas==1.8.0
