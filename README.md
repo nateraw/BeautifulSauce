@@ -1,5 +1,5 @@
 # BeautifulSauce :spaghetti:
-[![Build Status](https://api.travis-ci.com/nateraw/BeautifulSauce.svg?branch=master)](https://travis-ci.com/nateraw/BeautifulSauce) [![PyPi version](https://img.shields.io/pypi/v/BeautifulSauce.svg)](https://pypi.python.org/pypi/BeautifulSauce/)
+[![Build Status](https://api.travis-ci.com/nateraw/BeautifulSauce.svg?branch=master)](https://travis-ci.com/nateraw/BeautifulSauce) [![PyPi version](https://img.shields.io/pypi/v/BeautifulSauce.svg)](https://pypi.python.org/pypi/BeautifulSauce/) [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/nateraw/BeautifulSauce/blob/master/LICENSE)
 
 BeautifulSoup's saucy sibling!
 
