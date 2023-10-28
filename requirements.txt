@@ -5,6 +5,6 @@ numpy==1.16.4
 pandas==0.24.2
 requests==2.22.0
 tqdm==4.32.2
-PyYAML==5.1.1
+PyYAML==5.4
 scikit-learn==0.21.2
 sklearn-pandas==1.8.0
